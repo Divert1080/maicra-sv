@@ -1802,3 +1802,7 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [20Dec2024 04:57:15.588] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/network/play/ServerPlayNetHandler$1
 [20Dec2024 04:58:03.244] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Divert1080 lost connection: Disconnected
 [20Dec2024 04:58:03.247] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Divert1080 left the game
+[20Dec2024 05:00:05.600] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20Dec2024 05:00:05.604] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[20Dec2024 05:05:05.387] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[20Dec2024 05:05:05.390] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
